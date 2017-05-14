@@ -1,0 +1,5 @@
+﻿digraph G {
+	size="8,6";
+	node [color=lightblue2, style=filled];
+	{placeholder}
+}
